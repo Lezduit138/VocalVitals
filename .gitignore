@@ -37,5 +37,7 @@ firebase-export-*
 .env.production.local
 
 # Dataset stuff
-data/*
+data/processed/
+data/raw/healthy/
+data/raw/pneumonia/
 *.wav
