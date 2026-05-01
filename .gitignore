@@ -38,6 +38,9 @@ firebase-export-*
 
 # Dataset stuff
 data/processed/
+<<<<<<< HEAD
 data/raw/healthy/
 data/raw/pneumonia/
+=======
+>>>>>>> 6462aedfc872383ab0124a353546265ecd6e0a2b
 *.wav
